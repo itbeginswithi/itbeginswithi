@@ -2,10 +2,10 @@
 
 
 ## 🚀 About Me
-I'm a full stack developer from Morocco, I've been coding for 4 years now during which I have acquired many programming languages and built websites with various   frameworks and libraries.
+I'm a passionate full stack developer from Morocco, I've been coding for 4 years now during which I have acquired many programming languages and built websites with various   frameworks and libraries.
 
 ## 🛠 Skills
-Javascript, HTML, CSS (SCSS), ReactsJS, NextJS, Angular, Vue, NodeJS, ExpressJS, Git
+Javascript, HTML, CSS (SCSS), ReactsJS, NextJS, Angular, Vue, NodeJS, ExpressJS, Git, and most importantly Problem Solving.
 
 
 ## 🔗 Links
